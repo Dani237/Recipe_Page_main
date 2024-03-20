@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+:root {
+    /* PRIMARY */
+    --nutmeg: hsl(14, 45%, 36%);
+    --dRaspberry: hsl(332, 51%, 32%);
+
+    /* NEUTRAL */
+    --white: hsl(0, 0%, 100%);
+    --rWhite: hsl(330, 100%, 98%);
+    --eggshell: hsl(30, 54%, 90%);
+    --lGrey: hsl(30, 18%, 87%);
+    --wBrown: hsl(30, 10%, 34%);
+    --dCharcoal: hsl(24, 5%, 18%);
+
+    /* FONTS */
+
+    --principal-font: 'Outfit', sans-serif;
+    --secondary-font: 'Young Serif', sans-serif;
+}
+
+/* GLOBALS */
+html  {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
